@@ -56,9 +56,9 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
  * ReadMe.io
  * http://www.readme.io
- * ReadMe.io 855 Front St. San Francisco, CA 94111
+ * ReadMe.io 209 Kearny St. San Francisco, CA 94102
  * [support@readme.io](mailto:support@readme.io)
 
 * * *
 
-_This document was last updated on **October 07, 2014**_
+_This document was last updated on **April 23, 2018**_
