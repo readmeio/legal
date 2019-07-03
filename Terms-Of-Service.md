@@ -47,7 +47,7 @@ Violating of any of the terms below may result in the termination of your accoun
 
 1. Upgrading from the free trial to any payment plan will result in immediate billing. 
 2. Unless otherwise agreed, you will be billed monthly. Payment will be billed on (or as near as possible) to the day of the month you initially upgraded on. 
-3. All payments under $200/mo must be paid via credit card on the ReadMe website. Companies on higher plans may request invoice payment, which will be billed regularly. Payment must be completed within 30 days. 
+3. All payments under $500/mo must be paid via credit card on the ReadMe website. Companies on higher plans may request invoice payment, which will be billed regularly. Payment must be completed within 30 days. 
 4. All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes, levies, or duties, excluding on United States (federal or state) taxes. 
 5. For any upgrade or downgrade in plan level while on a monthly billing cycle, the credit card that you provided will automatically be charged the new rate on your next billing cycle. If a project plan is cancelled partially through a month, the user will receive a prorated refund for the days remaining in their plan. 
 6. All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes, levies, or duties, excluding only United States (federal or state) taxes. 
