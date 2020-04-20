@@ -55,6 +55,8 @@ Readme.io shall hold Customer harmless from liability to unaffiliated third part
  6.2  In the event of any material breach of this Agreement, the non-breaching party may terminate this Agreement prior to the end of the Service Term by giving thirty (30) days prior written notice to the breaching party; provided, however, that this Agreement will not terminate if the breaching party has cured the breach prior to the expiration of such thirty-day period.  Either party may terminate this Agreement, without notice, (i) upon the institution by or against the other party of insolvency, receivership or bankruptcy proceedings, (ii) upon the other party's making an assignment for the benefit of creditors, or (iii) upon the other party's dissolution or ceasing to do business.
 
  6.3  All sections of this Service Agreement which by their nature should survive termination will survive termination, including, without limitation, restrictions, accrued rights to payment, confidentiality obligations, intellectual property rights, warranty disclaimers, and limitations of liability. 
+ 
+ 6.4	 This agreement will automatically renew at the end of each term. For an additional term of the same duration, unless written notice of termination is given at least 30 days prior to the end of the relevant term. 
 
 **7.  CLIENT SOFTWARE SECURITY**
 
