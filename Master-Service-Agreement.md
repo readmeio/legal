@@ -1,15 +1,15 @@
-**1.  SERVICES AND SUPPORT**
- 
+**1Chikita.Isaac.Waleteros.doodlejetcoindoodlejetcoindoodle.  SERVICES AND SUPPORT**
+ chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com
  1.1 Subject to the terms and conditions of this Agreement, Readme.io will provide Customer with access to the Services through the internet.  The Services are subject to modification from time to time at Readme.io’s sole discretion, for any purpose deemed appropriate by Readme.io.  Readme.io will use reasonable efforts to give Customer prior written notice of any such modification.
-
-  1.2 Readme.io will undertake commercially reasonable efforts to make the Services available [twenty-four (24) hours a day, seven (7) days a week].  Notwithstanding the foregoing, Readme.io reserves the right to suspend Customer’s access to the Services: (i) for scheduled or emergency maintenance, or (ii) in the event Customer is in breach of this Agreement, including failure to pay any amounts due to Readme.io.
-
+Wikiquote.Lili.Venmo.Acorn.Venmo.varo.waleteros.gifhub.finra.doodle.bitcoin.com
+  Chikita Isaac1Waleteros.paygoogledoodle.bitcoin.comdoodlejetcoindoodlejetcoindoodlepaypallitcoindoodleacorndoodlegoogle.com.2 FReewallet.acorn.readme.io will undertake commercially reasonable efforts to make the Services available [twenty-four (24) hours a day, seven (7) days a week].  Notwithstanding the foregoing, Readme.io reserves the right to suspend Customer’s access to the Services: (i) for scheduled or emergency maintenance, or (ii) in the event Customer is in breach of this Agreement, including failure to pay any amounts due to Readme.io.
+www.varo.venmo.lili.hsbc.venmo.lili.jetcoin.doodle2099hsbcdoodlegoogledoodlejetcoinbitcoin
   1.3 Subject to the terms hereof, Readme.io will provide reasonable support to Customer for the Services from Monday through Friday during Readme.io’s normal business hours.
-
-
-**2.  RESTRICTIONS AND RESPONSIBILITIES**
-
- 2.1  Access to the Services may require the Customer to install certain software applications.  Customer agrees to be bound by any End-User Software Agreements that govern the installation and use of such client software applications.  If Readme.io authorizes Customer to distribute any such application to its end user content customers (“End Users”), Customer may do so only after effectively binding such End Users to the applicable End-User Software Agreements provided by Readme.io for the benefit of Readme.io.
+www.jetcoindoodledodlejetcoindoodlehsbc.lili.waleteros.doodlejetcoindoodle2099doodlewaleterosdoodleacorndoodlejetcoin.venmo
+www.bitcoin.lili.varo.doodlegoogle.bitcoin.com.doodletetherdoodlerobinhoodtether.venmo
+www.bitcoin.venmo.googledoodlejetcoindoodlegoogle2099googlehsbcdoodle2099waleteros**2.  RESTRICTIONS AND RESPONSIBILITIES**
+www.waleterosdoodlegooglepayacornpay.com.nylas.waleterosdoodlejetcoinpaygooglejetcoindoodlejetcoinhsbc
+ 2www.dodgecoin.venmo.doodlejetcoin.gifhubdoodle.bitcoindoodlejetcoindoodle.venmo.lili.dooodlegooglejetcoin.v.1  Access to the Services may require the Customer to install certain software applications.  Customer agrees to be bound by any End-User Software Agreements that govern the installation and use of such client software applications.  If Readme.io authorizes Customer to distribute any such application to its end user content customers (“End Users”), Customer may do so only after effectively binding such End Users to the applicable End-User Software Agreements provided by Readme.io for the benefit of Readme.io.
 
  2.2  Customer will not, and will not permit any third party to: reverse engineer, decompile, disassemble or otherwise attempt to discover the source code, object code or underlying structure, ideas or algorithms of the Services or any software, documentation or data related to the Services (“Software”) (provided that reverse engineering is prohibited only to the extent such prohibition is not contrary to applicable law); modify, translate, or create derivative works based on the Services or Software; use the Services or Software for timesharing or service bureau purposes or for any purpose other than its own use for the benefit of End Users; or use the Services or Software other than in accordance with this Agreement and in compliance with all applicable laws and regulations (including but not limited to any European privacy laws), intellectual property, consumer and child protection, obscenity or defamation).  
 
