@@ -76,7 +76,7 @@ If there are any conflicts this section and any other provision of this Privacy 
 
 We collect Personal Data about you when you provide such information directly to us, when third parties such as our business partners or service providers provide us with Personal Data about you, or when Personal Data about you is automatically collected in connection with your use of our Services.
 
-### Information we collect directly from you: 
+### Information we collect directly from you:
 We receive Personal Data directly from you when you provide us with such Personal Data, including without limitation the following: 
 * First and last name
 * Email address
@@ -86,12 +86,12 @@ We receive Personal Data directly from you when you provide us with such Persona
 * User content, for example, information or content you upload (which can include
 Personal Data if you include Personal Data in such content)
 
-### Information we receive from third party sources:  
+### Information we receive from third party sources:
 Some third parties such as our business partners and service providers provide us with Personal Data about you, such as the following:
 * **Account information for third party services:** If you interact with a third party service when using our Services, such as if you use a third party service to log-in to our Services (e.g., Facebook Connect or Twitter OAuth), or if you share content from our Services through a third party social media service, the third party service will send us information about you, such as information from your public profile, if the third party service and your account settings allow such sharing. The information we receive will depend on the policies and your account settings with the third party service.
 * **Information from our advertising partners:** We receive information about you from some of our service providers who assist us with marketing or promotional services related to how you interact with our websites, applications, products, services, advertisements or communications.  
 
-### Information we automatically collect when you use our Services:  
+### Information we automatically collect when you use our Services:
 Some Personal Data is automatically collected when you use our Services, such as the following: 
 * IP address
 * Device identifiers 
@@ -103,13 +103,13 @@ Some Personal Data is automatically collected when you use our Services, such as
 * Location information (e.g. IP address, zip code) 
 * Log data (e.g. access times, hardware and software information)
 
-### Third Party Analytic Tools 
+### Third Party Analytic Tools
 Our Services may use third party analytic tools, such as Google Analytics, that use cookies, web beacons, or other similar information gathering technologies to collect standard internet log information and usage information.  The information generated is used to compile statistical reports on user activity.  We will never (and will not allow any third party to) use the statistical reports to track or to collect any personal information of visitors to, or users of, our Services. We will not associate any information gathered from the statistical reports with any personal information from any source. Google Analytics collects information such as how often users visit a website, what pages they visit when they do so, and what other websites they visited prior to coming to a website. We use the information obtained from these applications only to improve our Services and our product and service offerings. The information generated about your use of our Services will be transferred and saved to the vendor’s server in the United States. Google’s ability to use and share information collected by Google Analytics about your visits to the Services is restricted by the Google Analytics Terms of Use and the Google Privacy Policy. You can opt-out of Google Analytics tracking by visiting [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
 
 ### Cookies
 When you visit our sites, we will send you a cookie, which is a small file stored on your computer that allows us to uniquely identify it. Where required by applicable law, we obtain your consent for the use of cookies.  You may choose to delete or not accept our cookies as described in this privacy policy.  If you delete or choose not to accept our cookies, you may not be able to utilize all the features of our products and services. If you are a resident of the EU or other jurisdiction that requires us to obtain your consent to use cookies on our sites, then you will have an opportunity to manage your cookie preferences on such sites; except that certain cookies are essential to enable core site functionality, and you cannot choose to disable those cookies. Through cookies we place on your browser or device, we may collect information about your online activity after you leave our Services. Just like any other usage information we collect, this information allows us to improve the Services and customize your online experience, and otherwise as described in this Privacy Policy. Your browser may offer you a “Do Not Track” option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and/or across different websites. Our Services do not support Do Not Track requests at this time, which means that we collect information about your online activity both while you are using the Services and after you leave our Services.
 
-## How Do We Use Your Personal Data?  
+## How Do We Use Your Personal Data?
 We process Personal Data to operate, improve, understand and personalize our Services.  For example, we use Personal Data to:
 * Create and manage user profiles
 * Communicate with you about the Services
@@ -163,7 +163,7 @@ We will only process your Personal Data if we have a lawful basis for doing so. 
 
 * **Other Processing Grounds:** From time to time we may also need to process Personal Data to comply with a legal obligation, if it is necessary to protect the vital interests of you or other data subjects, or if it is necessary for a task carried out in the public interest.
 
-## How and With Whom Do We Share Your Data?  
+## How and With Whom Do We Share Your Data?
 
 We share Personal Data with vendors, third party service providers and agents who work on our behalf and provide us with services related to the purposes described in this Privacy Policy or our Terms of Service. These parties include: 
 * Payment processors
@@ -195,10 +195,10 @@ Furthermore, if we choose to buy or sell assets, user information is typically o
 ## How Long Do We Retain Your Personal Data?
 We retain Personal Data about you for as long as you have an open account with us and for 12 months after you close your account. In some cases we retain Personal Data for longer, if doing so is necessary to comply with our legal obligations, resolve disputes or collect fees owed, or is otherwise permitted or required by applicable law, rule or regulation. Afterwards, we retain some information in a depersonalized or aggregated form but not in a way that would identify you personally. 
 
-## What Security Measures Do We Use? 
+## What Security Measures Do We Use?
 We seek to protect Personal Data using appropriate technical and organizational measures based on the type of Personal Data and applicable processing activity. For example, secured storage and encryption.  
 
-## Personal Data of Children: 
+## Personal Data of Children:
 As noted in the Terms of Service [https://readme.io/tos/](https://readme.io/tos/), we do not knowingly collect or solicit Personal Data from anyone under the age of 13.  If you are under 13, please do not attempt to register for the Services or send any Personal Data about yourself to us.  If we learn that we have collected Personal Data from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us Personal Data, please contact us at [support@readme.io](support@readme.io). 
 
 ## What Rights Do You Have Regarding Your Personal Data?
@@ -213,7 +213,7 @@ You have certain rights with respect to your Personal Data, including those set 
 * **Restriction of Processing:**  You can ask us to restrict further processing of your Personal Data.
 * **Right to File Complaint:**  You have the right to lodge a complaint about Company’s practices with respect to your Personal Data with the supervisory authority of your country or EU Member State. 
 
-## Transfers of Personal Data: 
+## Transfers of Personal Data:
 The Services are hosted and operated in the United States (“U.S.”) through Company and its service providers, and if you do not reside in the U.S., laws in the U.S. may differ from the laws where you reside. By using the Services, you acknowledge that any Personal Data about you, regardless of whether provided by you or obtained from a third party, is being provided to Company in the U.S. and will be hosted on U.S. servers, and you authorize Company to transfer, store and process your information to and in the U.S., and possibly other countries.  You hereby consent to the transfer of your data to the U.S. pursuant to a data processing agreement incorporating standard data protection clauses promulgated by the EC, a copy of which can be obtained at [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087.).
 
 ## Changes to this privacy policy
@@ -230,8 +230,8 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
  * ReadMe.io
  * http://www.readme.io
- * ReadMe.io 209 Kearny St. San Francisco, CA 94102
+ * ReadMe.io, 445 Bush St. #800, San Francisco, CA 94108
  * [support@readme.io](mailto:support@readme.io)
 * * *
 
-_This document was last updated on **May 24, 2018**_
+_This document was last updated on **August 3, 2022**_
