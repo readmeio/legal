@@ -4,7 +4,7 @@ If you require any more information or have any questions about our Terms of Ser
 
 These terms and conditions govern your use of this website; by using this website, you accept these terms and conditions in full and without reservation. If you disagree with these terms and conditions or any part of these terms and conditions, you must not use this website. If you are entering into this agreement on behalf of a company or other legal entity, the terms “you” and “your” shall refer to the entity. By signing up, you are acknowledging that you have the authority to agree to these terms on behalf of the entity.
 
-Any changes to the Terms of Service will be posted to the website prior to the new terms becoming effective. If you wish to receive emails regarding any updates to our Terms of Service, you may sign up at the bottom of http://readme.io/tos. Any new features released by ReadMe shall be subject to the Terms of Service. Continued use of the service after any such changes shall constitute your consent to such changes. 
+Any changes to the Terms of Service will be posted to the website prior to the new terms becoming effective. To view all changes made to this document, visit [https://github.com/readmeio/legal](https://github.com/readmeio/legal). Any new features released by ReadMe shall be subject to the Terms of Service. Continued use of the service after any such changes shall constitute your consent to such changes. 
 
 Violating of any of the terms below may result in the termination of your account.
 
