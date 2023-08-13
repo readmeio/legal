@@ -1,4 +1,4 @@
-This Privacy Policy governs the manner in which ReadMe.io collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.readme.io website ("Site"). This privacy policy applies to the Site and all products and services offered by ReadMe.io.
+This Privacy Policy governs the manner in which ReadMe collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.readme.com website ("Site"). This privacy policy applies to the Site and all products and services offered by ReadMe.
 
 ## Content Overview
 
@@ -34,7 +34,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 ## How we use collected information
 
-ReadMe.io may collect and use Users personal information for the following purposes:
+ReadMe may collect and use Users personal information for the following purposes:
 
 * **To improve customer service** Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
@@ -199,13 +199,13 @@ We retain Personal Data about you for as long as you have an open account with u
 We seek to protect Personal Data using appropriate technical and organizational measures based on the type of Personal Data and applicable processing activity. For example, secured storage and encryption.  
 
 ## Personal Data of Children:
-As noted in the Terms of Service [https://readme.io/tos/](https://readme.io/tos/), we do not knowingly collect or solicit Personal Data from anyone under the age of 13.  If you are under 13, please do not attempt to register for the Services or send any Personal Data about yourself to us.  If we learn that we have collected Personal Data from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us Personal Data, please contact us at [support@readme.io](support@readme.io). 
+As noted in the Terms of Service [https://readme.com/tos/](https://readme.com/tos/), we do not knowingly collect or solicit Personal Data from anyone under the age of 13.  If you are under 13, please do not attempt to register for the Services or send any Personal Data about yourself to us.  If we learn that we have collected Personal Data from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us Personal Data, please contact us at [support@readme.io](support@readme.io). 
 
 ## What Rights Do You Have Regarding Your Personal Data?
-You have certain rights with respect to your Personal Data, including those set forth below.  For more information about these rights, or to submit a request, please visit [https://readme.io/gdpr/](https://readme.io/gdpr/). Please note that in some circumstances, we may not be able to fully comply with your request, such as if it is frivolous or extremely impractical, if it jeopardizes the rights of others, or if it is not required by law, but in those circumstances, we will still respond to notify you of such a decision.  In some cases, we may also need to you to provide us with additional information, which may include Personal Data, if necessary to verify your identity and the nature of your request.  
+You have certain rights with respect to your Personal Data, including those set forth below.  For more information about these rights, or to submit a request, please visit [https://readme.com/gdpr/](https://readme.com/gdpr/). Please note that in some circumstances, we may not be able to fully comply with your request, such as if it is frivolous or extremely impractical, if it jeopardizes the rights of others, or if it is not required by law, but in those circumstances, we will still respond to notify you of such a decision.  In some cases, we may also need to you to provide us with additional information, which may include Personal Data, if necessary to verify your identity and the nature of your request.  
 
-* **Access:**  You can request more information about the Personal Data we hold about you and request a copy of such Personal Data. You can also access certain of your Personal Data by visting https://readme.io/gdpr/ and submitting a request 
-* **Rectification:** If you believe that any Personal Data we are holding about you is incorrect or incomplete, you can request that we correct or supplement such data. You can correct some of this information directly by visiting dash.readme.io and editing your profile. 
+* **Access:**  You can request more information about the Personal Data we hold about you and request a copy of such Personal Data. You can also access certain of your Personal Data by visiting [https://readme.com/gdpr/](https://readme.com/gdpr/) and submitting a request 
+* **Rectification:** If you believe that any Personal Data we are holding about you is incorrect or incomplete, you can request that we correct or supplement such data. You can correct some of this information directly by visiting [https://dash.readme.com](dash.readme.com) and editing your profile. 
 * **Erasure:** You can request that we erase some or all of your Personal Data from our systems.  
 * **Withdrawal of Consent:** If we are processing your Personal Data based on your consent (as indicated at the time of collection of such data), you have the right to withdraw your consent at any time. Please note, however, that if you exercise this right, you may have to then provide express consent on a case-by-case basis for the use or disclosure of certain of your Personal Data, if such use or disclosure is necessary to enable you to utilize some or all of our Services. 
 * **Portability:**  You can ask for a copy of your Personal Data in a machine-readable format.  You can also request that we transmit the data to another controller where technically feasible. 
@@ -218,7 +218,7 @@ The Services are hosted and operated in the United States (“U.S.”) through C
 
 ## Changes to this privacy policy
 
-ReadMe.io has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+ReadMe has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 ## Your acceptance of these terms
 
