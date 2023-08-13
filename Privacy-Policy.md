@@ -228,10 +228,10 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
- * ReadMe.io
- * http://www.readme.io
- * ReadMe.io, 445 Bush St. #800, San Francisco, CA 94108
+ * ReadMe
+ * http://www.readme.com
+ * ReadMe, 14 Geary St Fl 2, San Francisco, CA 94108
  * [support@readme.io](mailto:support@readme.io)
 * * *
 
-_This document was last updated on **August 3, 2022**_
+_This document was last updated on **August 13, 2023**_
