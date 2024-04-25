@@ -1,24 +1,32 @@
-This Privacy Policy governs the manner in which ReadMe collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.readme.com website ("Site"). This privacy policy applies to the Site and all products and services offered by ReadMe.
+This Privacy Policy governs the manner in which ReadMe collects, uses, maintains and discloses information collected from users (each, a "User") of the https://www.readme.com website ("Site"). This privacy policy applies to the Site and all products and services offered by ReadMe.
 
 ## Content Overview
 
-* [Personal identification information](#section-personal-identification-information)	
-* [Non-personal identification information](#section-non-personal-identification-information)	
-* [Web browser cookies](#section-web-browser-cookies)	
-* [How we use collected information](#section-how-we-use-collected-information)	
-* [How we protect your information](#section-how-we-protect-your-information)	
-* [Sharing your personal information](#section-sharing-your-personal-information)	
-* [Third party websites](#section-third-party-websites)	
-* [EU Residents](#section-eu-residents)	
-* [What Personal Data Do We Collect From You?](#section-what-personal-data-do-we-collect-from-you)	
-* [How Do We Use Your Personal Data?](#section-how-do-we-use-your-personal-data) 	
-* [How and With Whom Do We Share Your Data?](#section-how-and-with-whom-do-we-share-your-data)    
-* [How Long Do We Retain Your Personal Data?](#section-how-long-do-we-retain-your-personal-data)	
-* [What Security Measures Do We Use?](#section-what-security-measures-do-we-use)  
-* [Personal Data of Children](#section-personal-data-of-children)	
-* [What Rights Do You Have Regarding Your Personal Data?](#section-what-rights-do-you-have-regarding-your-personal-data)	
-* [Transfers of Personal Data](#section-transfers-of-personal-data)
-* [Changes to this privacy policy](#section-changes-to-this-privacy-policy)
+- [Content Overview](#content-overview)
+- [Personal identification information](#personal-identification-information)
+- [Non-personal identification information](#non-personal-identification-information)
+- [Web browser cookies](#web-browser-cookies)
+- [How we use collected information](#how-we-use-collected-information)
+- [How we protect your information](#how-we-protect-your-information)
+- [Sharing your personal information](#sharing-your-personal-information)
+- [Third party websites](#third-party-websites)
+- [EU Residents](#eu-residents)
+- [What Personal Data Do We Collect From You?](#what-personal-data-do-we-collect-from-you)
+  - [Information we collect directly from you:](#information-we-collect-directly-from-you)
+  - [Information we receive from third party sources:](#information-we-receive-from-third-party-sources)
+  - [Information we automatically collect when you use our Services:](#information-we-automatically-collect-when-you-use-our-services)
+  - [Third Party Analytic Tools](#third-party-analytic-tools)
+  - [Cookies](#cookies)
+- [How Do We Use Your Personal Data?](#how-do-we-use-your-personal-data)
+- [How and With Whom Do We Share Your Data?](#how-and-with-whom-do-we-share-your-data)
+- [How Long Do We Retain Your Personal Data?](#how-long-do-we-retain-your-personal-data)
+- [What Security Measures Do We Use?](#what-security-measures-do-we-use)
+- [Personal Data of Children:](#personal-data-of-children)
+- [What Rights Do You Have Regarding Your Personal Data?](#what-rights-do-you-have-regarding-your-personal-data)
+- [Transfers of Personal Data:](#transfers-of-personal-data)
+- [Changes to this privacy policy](#changes-to-this-privacy-policy)
+- [Your acceptance of these terms](#your-acceptance-of-these-terms)
+- [Contacting us](#contacting-us)
 
 ## Personal identification information
 
@@ -199,13 +207,13 @@ We retain Personal Data about you for as long as you have an open account with u
 We seek to protect Personal Data using appropriate technical and organizational measures based on the type of Personal Data and applicable processing activity. For example, secured storage and encryption.  
 
 ## Personal Data of Children:
-As noted in the Terms of Service [https://readme.com/tos/](https://readme.com/tos/), we do not knowingly collect or solicit Personal Data from anyone under the age of 13.  If you are under 13, please do not attempt to register for the Services or send any Personal Data about yourself to us.  If we learn that we have collected Personal Data from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us Personal Data, please contact us at [support@readme.io](support@readme.io). 
+As noted in the Terms of Service [https://readme.com/tos](https://readme.com/tos), we do not knowingly collect or solicit Personal Data from anyone under the age of 13.  If you are under 13, please do not attempt to register for the Services or send any Personal Data about yourself to us.  If we learn that we have collected Personal Data from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us Personal Data, please contact us at [support@readme.io](mailto:support@readme.io). 
 
 ## What Rights Do You Have Regarding Your Personal Data?
-You have certain rights with respect to your Personal Data, including those set forth below.  For more information about these rights, or to submit a request, please visit [https://readme.com/gdpr/](https://readme.com/gdpr/). Please note that in some circumstances, we may not be able to fully comply with your request, such as if it is frivolous or extremely impractical, if it jeopardizes the rights of others, or if it is not required by law, but in those circumstances, we will still respond to notify you of such a decision.  In some cases, we may also need to you to provide us with additional information, which may include Personal Data, if necessary to verify your identity and the nature of your request.  
+You have certain rights with respect to your Personal Data, including those set forth below.  For more information about these rights, or to submit a request, please visit [https://readme.com/gdpr](https://readme.com/gdpr). Please note that in some circumstances, we may not be able to fully comply with your request, such as if it is frivolous or extremely impractical, if it jeopardizes the rights of others, or if it is not required by law, but in those circumstances, we will still respond to notify you of such a decision.  In some cases, we may also need to you to provide us with additional information, which may include Personal Data, if necessary to verify your identity and the nature of your request.  
 
-* **Access:**  You can request more information about the Personal Data we hold about you and request a copy of such Personal Data. You can also access certain of your Personal Data by visiting [https://readme.com/gdpr/](https://readme.com/gdpr/) and submitting a request 
-* **Rectification:** If you believe that any Personal Data we are holding about you is incorrect or incomplete, you can request that we correct or supplement such data. You can correct some of this information directly by visiting [https://dash.readme.com](dash.readme.com) and editing your profile. 
+* **Access:**  You can request more information about the Personal Data we hold about you and request a copy of such Personal Data. You can also access certain of your Personal Data by visiting [https://readme.com/gdpr](https://readme.com/gdpr) and submitting a request 
+* **Rectification:** If you believe that any Personal Data we are holding about you is incorrect or incomplete, you can request that we correct or supplement such data. You can correct some of this information directly by visiting [https://dash.readme.com](https://dash.readme.com) and editing your profile. 
 * **Erasure:** You can request that we erase some or all of your Personal Data from our systems.  
 * **Withdrawal of Consent:** If we are processing your Personal Data based on your consent (as indicated at the time of collection of such data), you have the right to withdraw your consent at any time. Please note, however, that if you exercise this right, you may have to then provide express consent on a case-by-case basis for the use or disclosure of certain of your Personal Data, if such use or disclosure is necessary to enable you to utilize some or all of our Services. 
 * **Portability:**  You can ask for a copy of your Personal Data in a machine-readable format.  You can also request that we transmit the data to another controller where technically feasible. 
@@ -214,7 +222,7 @@ You have certain rights with respect to your Personal Data, including those set 
 * **Right to File Complaint:**  You have the right to lodge a complaint about Company’s practices with respect to your Personal Data with the supervisory authority of your country or EU Member State. 
 
 ## Transfers of Personal Data:
-The Services are hosted and operated in the United States (“U.S.”) through Company and its service providers, and if you do not reside in the U.S., laws in the U.S. may differ from the laws where you reside. By using the Services, you acknowledge that any Personal Data about you, regardless of whether provided by you or obtained from a third party, is being provided to Company in the U.S. and will be hosted on U.S. servers, and you authorize Company to transfer, store and process your information to and in the U.S., and possibly other countries.  You hereby consent to the transfer of your data to the U.S. pursuant to a data processing agreement incorporating standard data protection clauses promulgated by the EC, a copy of which can be obtained at [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087.).
+The Services are hosted and operated in the United States (“U.S.”) through Company and its service providers, and if you do not reside in the U.S., laws in the U.S. may differ from the laws where you reside. By using the Services, you acknowledge that any Personal Data about you, regardless of whether provided by you or obtained from a third party, is being provided to Company in the U.S. and will be hosted on U.S. servers, and you authorize Company to transfer, store and process your information to and in the U.S., and possibly other countries.  You hereby consent to the transfer of your data to the U.S. pursuant to a data processing agreement incorporating standard data protection clauses promulgated by the EC, a copy of which can be obtained at [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087).
 
 ## Changes to this privacy policy
 
@@ -222,16 +230,16 @@ ReadMe has the discretion to update this privacy policy at any time. When we do,
 
 ## Your acceptance of these terms
 
-By using this Site, you signify your acceptance of this policy and [terms of service](/tos). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://readme.com/tos). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 ## Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
  * ReadMe
- * http://www.readme.com
+ * https://www.readme.com
  * ReadMe, 14 Geary St Fl 2, San Francisco, CA 94108
  * [support@readme.io](mailto:support@readme.io)
 * * *
 
-_This document was last updated on **August 13, 2023**_
+_This document was last updated on **April 25, 2024**_
